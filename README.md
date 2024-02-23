@@ -1,4 +1,13 @@
-# MongoDB Repository
+# MongoDB init
+
+<img src="https://ibb.co/9WW5HkR" align="right" width="110" height="110" />
+
+![GitHub repo size](https://img.shields.io/github/repo-size/rockyhaque/codeMama)
+![GitHub stars](https://img.shields.io/github/stars/rockyhaque/codeMama?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rockyhaque/rockyhaque?style=social)
+[![Follow me on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-handle/)](https://www.linkedin.com/in/your-linkedin-handle/)
+[![Follow me on Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rocky_haque.10/)](https://www.instagram.com/rocky_haque.10/)
+[![Connect with me on Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rockyhaquee/)](https://www.facebook.com/rockyhaquee/)
 
 Welcome to the MongoDB repository! This repository serves as a comprehensive guide and resource hub for learning and working with MongoDB, a popular NoSQL database management system. Whether you're a beginner looking to explore MongoDB or an experienced developer seeking advanced techniques, this repository has something for everyone.
 
