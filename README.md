@@ -3,8 +3,8 @@
 <img src="https://i.ibb.co/kVn4DD0/pngwing-com.png" align="right" width="110" height="110" />
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/rockyhaque/codeMama)
-![GitHub stars](https://img.shields.io/github/stars/rockyhaque/codeMama?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/rockyhaque/mongoDB)
+![GitHub stars](https://img.shields.io/github/stars/rockyhaque/mongoDB?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/rockyhaque/rockyhaque?style=social)
 [![Follow me on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-handle/)](https://www.linkedin.com/in/your-linkedin-handle/)
 [![Follow me on Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rocky_haque.10/)](https://www.instagram.com/rocky_haque.10/)
