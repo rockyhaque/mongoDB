@@ -1,6 +1,6 @@
 # MongoDB init
 
-<img src="https://i.ibb.co/sgQGzP8/icons8-mongodb-48.png" align="right" width="110" height="110" />
+<img src="https://i.ibb.co/KWWvxpC/pngegg.png" align="right" width="110" height="110" />
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/rockyhaque/codeMama)
