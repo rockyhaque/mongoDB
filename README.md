@@ -1,6 +1,6 @@
 # MongoDB init
 
-<img src="https://ibb.co/9WW5HkR" align="right" width="110" height="110" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F331488%2Fmongodb&psig=AOvVaw22uzA76R0NezvfQ6-MurhK&ust=1708749691321000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDIqOPSwIQDFQAAAAAdAAAAABAE" align="right" width="110" height="110" />
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/rockyhaque/codeMama)
 ![GitHub stars](https://img.shields.io/github/stars/rockyhaque/codeMama?style=social)
